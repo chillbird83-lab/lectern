@@ -1,0 +1,11 @@
+{
+  "name": "lectern",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lectern — lecture recorder & organiser (installable web app, no dependencies).",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "test": "node --test"
+  }
+}
